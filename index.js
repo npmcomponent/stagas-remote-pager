@@ -3,8 +3,8 @@
  * ajax-pager
  */
 
-var Pager = require('pager')
-var Spin = require('spin')
+var Pager = require('stagas-pager')
+var Spin = require('component-spin')
 
 module.exports = function () {
   var cache = []

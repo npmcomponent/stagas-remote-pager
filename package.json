@@ -1,0 +1,17 @@
+{
+  "name": "stagas-remote-pager",
+  "description": "remote resource pagination component",
+  "version": "0.0.1",
+  "keywords": [
+    "pager",
+    "pagination"
+  ],
+  "styles": [
+    "style.css"
+  ],
+  "dependencies": {
+    "stagas-pager": "git://github.com/npmcomponent/stagas-pager.git",
+    "component-spin": "git://github.com/npmcomponent/component-spin.git"
+  },
+  "license": "MIT"
+}
